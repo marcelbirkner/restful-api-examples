@@ -5,6 +5,12 @@ This project contains a couple of examples how to call REST API services. The fo
 - Jersey :: JAX-RS :: http://jersey.java.net/
 - Jackson :: JSON Processor :: http://jackson.codehaus.org/
 
+<h3>Run Examples</h3>
+
+- Import Maven project into the IDE of your choice
+- Run main() Method of ArtifactoryTestClient within your IDE
+- Run main() Method of NexusTestClient within your  IDE
+
 <h3>Requirements</h3>
 
 The source code contains example REST clients for Artifactory and Nexus. 
