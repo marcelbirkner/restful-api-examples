@@ -1,9 +1,11 @@
-This project contains a couple of examples how to use call REST API services. The following technologies are used:
+<h3>Summary</h3>
+
+This project contains a couple of examples how to call REST API services. The following technologies are used:
 
 - Jersey :: JAX-RS :: http://jersey.java.net/
 - Jackson :: JSON Processor :: http://jackson.codehaus.org/
 
-Requirements:
+<h3>Requirements</h3>
 
 The source code contains example REST clients for Artifactory and Nexus. 
 Both are artifact repositories and provide REST API's.
