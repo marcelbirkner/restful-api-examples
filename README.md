@@ -1,3 +1,5 @@
+[![Build Status](https://buildhive.cloudbees.com/job/marcelbirkner/job/restful-api-examples/badge/icon)](https://buildhive.cloudbees.com/job/marcelbirkner/job/restful-api-examples/)
+
 <h3>Summary</h3>
 
 This project contains a couple of examples how to call REST API services. 
